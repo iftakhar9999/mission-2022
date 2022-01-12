@@ -18,8 +18,53 @@ padding-left: 1%;}
 .link-button {
     text-decoration: none;
     background-color:yellow;
-    background-image: linear-gradient(tomato,yellow);
+    background-image: linear-gradient(tomato,orange);
     padding: 8px 30px;
     font-weight: 500;
     border-radius: 8px;
+    
 }
+.mate{
+    color: tomato;
+}
+.div-mit {
+    padding-left: 35%;
+}
+.mission-1{
+height: 400px;
+width: 300px;
+padding-left: 60px;
+margin-left: 60px;
+   background-color: wheat;
+   border-radius: 20px;
+}
+.image-1 img {width: 50%;
+    
+}
+
+
+.vission-2{
+    height: 400px;
+    width: 300px;
+    padding-left: 60px;
+    margin-left: 60px;
+    background-color:thistle;
+    border-radius: 20px;
+    
+}
+.image-2 img{
+    width: 50%;
+}
+.goals-3{
+    
+    height: 400px;
+    width: 300px;
+    padding-left: 60px;
+    margin-left: 60px;
+    background-color: lightpink;
+    border-radius: 20px;   
+}
+.image-3 img {
+    width: 50%;
+}
+
