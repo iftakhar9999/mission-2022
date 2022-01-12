@@ -110,3 +110,14 @@ padding-left: 15px;
 .section-3 {
     margin-bottom: 120px;
 }
+.creative img{
+    width: 110%;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.creative1 {
+    padding-left: 200px;
+}
+.last-section {
+    padding-top: 50px;
+}
