@@ -67,4 +67,26 @@ padding-left: 15px;
 .image-3 img {
     width: 50%;
 }
-
+.coding img {
+    width: 80%;
+    padding-top: 20%;
+}
+.develop{
+    font-size: 30px;
+  
+    
+}
+.developer {
+    
+    padding-right: 150px;
+    padding-top: 50px;
+}
+.padding {
+    padding-right: 30%;
+    padding-top: 40px;
+}
+.global img {
+    width: 100%;
+    padding-right: 450px;
+    padding-top: 40px;
+}
